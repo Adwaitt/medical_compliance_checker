@@ -1,0 +1,15 @@
+Compliant:
+
+(FDA/EMA) "Clinical studies have shown that [Drug Name] reduces symptoms of [Condition] by up to 45% in patients who meet the study criteria, as demonstrated in a randomized, placebo-controlled trial (N=500, EMA-approved study reference)."
+(FDA/EMA/HSA) "The vaccine has been authorized for use in individuals aged 12 and above, following rigorous evaluation by health authorities."
+(FDA/EMA/HSA) "Our glucose monitoring device is CE-marked and FDA-cleared for assisting in blood sugar management under medical supervision."
+(FDA/EMA/HSA) "[Product Name] contains [Ingredient], which supports normal immune function, as per EFSA-authorized health claims (Regulation (EC) No 1924/2006) and is compliant with FDA DSHEA and HSA guidelines."
+(FDA/EMA/HSA) "[Product Name] contains [Ingredient], which supports normal immune function, as per EFSA-authorized health claims (Regulation (EC) No 1924/2006) and is compliant with FDA DSHEA and HSA guidelines."
+
+Non-Compliant:
+
+"This drug guarantees 100% effectiveness in curing diabetes."
+"Our pain relief cream is the most advanced in the world!"
+"This supplement will prevent heart attacks."
+"Clinical studies show this knee surgery has a 95% success rate."
+"This treatment is better than all others available."
